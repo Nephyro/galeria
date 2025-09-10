@@ -87,6 +87,7 @@ div imagens {
 span {
     background: linear-gradient(to left, crimson, blueviolet);
     -webkit-background-clip: text;
+    background-clip: text;
     -webkit-text-fill-color: transparent;
     border-radius: 20%;
     font-size: 24px;
